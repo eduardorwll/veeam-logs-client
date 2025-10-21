@@ -12,7 +12,6 @@ veeam_hosts:
   ip_interno (INET)
   ip_externo (INET)
   descricao (TEXT)
-  veeam_version (TEXT) -- Versão do Veeam
   last_seen (TIMESTAMPTZ) -- Última vez que reportou
   created_at (TIMESTAMPTZ)
   updated_at (TIMESTAMPTZ)
