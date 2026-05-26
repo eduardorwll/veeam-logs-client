@@ -5,4 +5,4 @@
 - Explorar o grafana e a integração com a db do supa
 
 
-## OBS: Usando o ambiente do host .28 da PA para os testes, venv configurado em C:\veeam-supabase-monitor
+## OBS: Usando o ambiente do host da garagem TWIN PA para os testes, em C:\veeam-logs-client
